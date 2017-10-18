@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IOT_Lab5_Group2</string>
+    <string name="speak">Speak</string>
+    <string name="action_settings">Settings</string>
+</resources>
